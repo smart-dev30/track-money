@@ -1,0 +1,37 @@
+@media (min-width: 768px) {
+  .container-header > .ui.basic.buttons {
+    max-width: 360px;
+    background: #ffffff;
+    box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15);
+  }
+}
+
+.transactions-filter-modal .content {
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .transactions-filter-modal .DayPicker-wrapper {
+    padding: 0;
+  }
+
+  .transactions-filter-modal .DayPicker-Month:last-child {
+    margin-top: 1em;
+  }
+}
+
+.transactions-filters-applied {
+  padding: 0.75em;
+  border-bottom: solid 1px #d4d4d5;
+  background: #f8f8f8;
+  box-shadow: 0 1px 1px 0 rgba(34, 36, 38, 0.15) inset;
+}
+
+.transactions-filters-applied .ui.label {
+  margin: 0.24285714em;
+  box-shadow: 0 0 0 1px rgba(34, 36, 38, 0.15) inset;
+}
+
+.transactions-filters-applied .ui.label:first-child {
+  margin-left: 0.24285714em;
+}

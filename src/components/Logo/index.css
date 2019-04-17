@@ -1,0 +1,13 @@
+.logo {
+  position: relative;
+  height: 60px;
+  top: -16px;
+  left: -16px;
+  width: 125px;
+  text-align: center;
+  padding: 15px;
+}
+
+.logo img {
+  height: 32px;
+}

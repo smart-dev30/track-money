@@ -1,0 +1,15 @@
+{
+  "short_name": "MoneyTracker",
+  "name": "Money Tracker",
+  "icons": [
+    {
+      "src": "favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#3F51B5",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,12 @@
+.ui.form.account-form .input-right .mono {
+  display: block;
+  margin-top: 0.75em;
+}
+
+.ui.form.account-form .field.checkbox {
+  padding-top: 0.75em;
+}
+
+.ui.form.account-form .fields.no-margin {
+  margin-bottom: 0 !important;
+}
